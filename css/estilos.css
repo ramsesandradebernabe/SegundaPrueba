@@ -1,0 +1,19 @@
+body{
+    color: red;
+    text-align: center;
+    font-family: 'Courier New';
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: cadetblue;
+}
+#container h1{
+    font-size: 20px;
+}
+#cabecera{
+    color: black;
+    text-align: right;
+    font-size: 20px;
+}
