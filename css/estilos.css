@@ -22,3 +22,11 @@ body{
     width: 20px;
     vertical-align: : middle;
 }
+#footer{
+    background-color: green;
+    color: white;
+    padding: 2em;
+    width: 100%;
+    font: Arial;
+    text-align: center; 
+}
